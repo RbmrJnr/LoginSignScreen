@@ -1,0 +1,20 @@
+@media (max-width: 900px){
+.center-screen{
+    padding: 0 15px;
+    gap: 10px;
+}
+.cabecalho{
+    max-width: 100%;
+    
+}
+.todoselementos{
+    max-width: 100%;
+}
+footer{
+    max-width: 100%;
+}
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+}
